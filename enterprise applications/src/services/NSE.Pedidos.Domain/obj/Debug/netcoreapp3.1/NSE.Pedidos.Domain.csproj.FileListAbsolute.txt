@@ -1,0 +1,13 @@
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.deps.json
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.AssemblyReference.cache
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfoInputs.cache
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfo.cs
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CopyComplete
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+C:\dev\tech\desenvolvedorio\enterprise applications\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yce1YFpx+82jnCFRFY8h42XSPjIQYV1HFGx/LelmfHbr6fK9yQmBQYD7LimGw8qIRE0JUVMj/XcbMN9B0bHK/A==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\tech\\desenvolvedorio\\enterprise applications\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\rafas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

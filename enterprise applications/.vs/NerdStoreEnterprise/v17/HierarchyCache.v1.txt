@@ -1,0 +1,1379 @@
+﻿++Solution 'NerdStoreEnterprise' ‎(14 of 14 projects)
+i:{00000000-0000-0000-0000-000000000000}:NerdStoreEnterprise.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++ApiGateways
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:ApiGateways
+++Compras
+i:{4873eadb-8f34-40a3-9ff4-68591bd8490c}:Compras
+++NSE.Bff.Compras
+i:{fede6de9-8959-4e0f-a4d1-814391ef7ce7}:NSE.Bff.Compras
+++Connected Services 
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>1850
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1844
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1848
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1840
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1852
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1842
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>1846
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1854
+++Dependencies
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>1838
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:>792
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>548
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:>904
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1832
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1835
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1837
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1834
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1833
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:>1084
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>1839
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:>971
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1155
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1836
+++Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:analyzers
+i:{e9ae8163-a22e-4179-a041-820c96307756}:analyzers
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:analyzers
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:analyzers
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:analyzers
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:analyzers
+i:{614668f2-6dec-4b2e-94db-52038272a274}:analyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:analyzers
+++Frameworks
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:frameworks
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:frameworks
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:frameworks
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:frameworks
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:frameworks
+i:{e9ae8163-a22e-4179-a041-820c96307756}:frameworks
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:frameworks
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:frameworks
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:frameworks
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:frameworks
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:frameworks
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:frameworks
+i:{614668f2-6dec-4b2e-94db-52038272a274}:frameworks
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:frameworks
+++Packages
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:packages
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:packages
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:packages
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:packages
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:packages
+i:{e9ae8163-a22e-4179-a041-820c96307756}:packages
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:packages
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:packages
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:packages
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:packages
+i:{614668f2-6dec-4b2e-94db-52038272a274}:packages
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:packages
+++Google.Protobuf (3.12.4)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2041
+++Grpc.Net.ClientFactory (2.30.0)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2024
+++Grpc.Tools (2.31.0)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2037
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.10.8)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2045
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>2020
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>2001
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>2017
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1912
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>2021
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>2006
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>2003
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.2)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2049
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>2016
+++Swashbuckle.AspNetCore (5.4.1)
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>2034
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1980
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1985
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1909
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1998
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>1987
+++Projects
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:projects
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:projects
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:projects
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:projects
+i:{e9ae8163-a22e-4179-a041-820c96307756}:projects
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:projects
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:projects
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:projects
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:projects
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:projects
+i:{614668f2-6dec-4b2e-94db-52038272a274}:projects
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:projects
+++Properties
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\properties\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\properties\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\properties\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\properties\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\properties\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\properties\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\properties\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\properties\
+++Configuration
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\configuration\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\configuration\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\configuration\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\configuration\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\configuration\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\configuration\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\configuration\
+++ApiConfig.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\apiconfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\configuration\apiconfig.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\configuration\apiconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\configuration\apiconfig.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\configuration\apiconfig.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\configuration\apiconfig.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\configuration\apiconfig.cs
+++DependencyInjectionConfig.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\dependencyinjectionconfig.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\configuration\dependencyinjectionconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\configuration\dependencyinjectionconfig.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\configuration\dependencyinjectionconfig.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\configuration\dependencyinjectionconfig.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\configuration\dependencyinjectionconfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\configuration\dependencyinjectionconfig.cs
+++GrpcConfig.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\grpcconfig.cs
+++MessageBusConfig.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\messagebusconfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\configuration\messagebusconfig.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\configuration\messagebusconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\configuration\messagebusconfig.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\configuration\messagebusconfig.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\configuration\messagebusconfig.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\configuration\messagebusconfig.cs
+++SwaggerConfig.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\configuration\swaggerconfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\configuration\swaggerconfig.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\configuration\swaggerconfig.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\configuration\swaggerconfig.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\configuration\swaggerconfig.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\configuration\swaggerconfig.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\configuration\swaggerconfig.cs
+++Controllers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\controllers\
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\controllers\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\controllers\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\controllers\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\controllers\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\controllers\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\controllers\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\controllers\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\
+++CarrinhoController.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\controllers\carrinhocontroller.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\controllers\carrinhocontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\carrinhocontroller.cs
+++PedidoController.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\controllers\pedidocontroller.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\controllers\pedidocontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\pedidocontroller.cs
+++Extensions
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\extensions\
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\extensions\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\extensions\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\
+++Models
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\models\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\models\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\models\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\
+++Services
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\
+i:{117a9589-2568-4766-8d6f-6a5e1f0e5c42}:Services
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Services
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\services\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\services\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\services\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\services\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\services\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\services\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\
+++gRPC
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\grpc\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\services\grpc\
+++CarrinhoGrpcService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\grpc\carrinhogrpcservice.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\services\grpc\carrinhogrpcservice.cs
+++GrpcServiceInterceptor.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\grpc\grpcserviceinterceptor.cs
+++CarrinhoService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\carrinhoservice.cs
+++CatalogoService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\catalogoservice.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\catalogoservice.cs
+++ClienteService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\clienteservice.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\clienteservice.cs
+++PagamentoService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\pagamentoservice.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\services\pagamentoservice.cs
+++PedidoService.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\pedidoservice.cs
+++Service.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\services\service.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\service.cs
+++appsettings.json
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\appsettings.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\appsettings.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\appsettings.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\appsettings.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\appsettings.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\appsettings.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\appsettings.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\appsettings.json
+++appsettings.Development.json
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\appsettings.development.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\appsettings.development.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\appsettings.development.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\appsettings.development.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\appsettings.development.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\appsettings.development.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\appsettings.development.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\appsettings.development.json
+++appsettings.Production.json
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\appsettings.production.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\appsettings.production.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\appsettings.production.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\appsettings.production.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\appsettings.production.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\appsettings.production.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\appsettings.production.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\appsettings.production.json
+++Dockerfile
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\dockerfile
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\dockerfile
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\dockerfile
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\dockerfile
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\dockerfile
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\dockerfile
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\dockerfile
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\dockerfile
+++Program.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\program.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\program.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\program.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\program.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\program.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\program.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\program.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\program.cs
+++Startup.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\startup.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\startup.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\startup.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\startup.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\startup.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\startup.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\startup.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\startup.cs
+++No service dependencies discovered
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:>1851
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1845
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1849
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1841
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1853
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1843
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>1847
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1855
+++Microsoft.AspNetCore.Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\users\rafas\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\microsoft.aspnetcore.app
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\microsoft.aspnetcore.app
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\microsoft.aspnetcore.app
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\microsoft.aspnetcore.app
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\microsoft.aspnetcore.app
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\microsoft.aspnetcore.app
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\microsoft.aspnetcore.app
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\microsoft.netcore.app
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\microsoft.netcore.app
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\microsoft.netcore.app
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\microsoft.netcore.app
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\microsoft.netcore.app
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\microsoft.netcore.app
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\microsoft.netcore.app
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\microsoft.netcore.app
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\microsoft.netcore.app
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\microsoft.netcore.app
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\microsoft.netcore.app
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\microsoft.netcore.app
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\microsoft.netcore.app
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\microsoft.netcore.app
+++NSE.Core
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{4f41812c-6330-4b49-a5b0-cc7012e2be45}:NSE.Core
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\nse.core.csproj
+++NSE.MessageBus
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{99ab4af0-cdf2-4d8b-94ac-03b210b47e60}:NSE.MessageBus
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\nse.messagebus.csproj
+++NSE.WebAPI.Core
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{60924242-29a8-4198-81fb-7f9705a6b2c1}:NSE.WebAPI.Core
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\nse.webapi.core.csproj
+++launchSettings.json
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\properties\launchsettings.json
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\properties\launchsettings.json
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\properties\launchsettings.json
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\properties\launchsettings.json
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\properties\launchsettings.json
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\properties\launchsettings.json
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\properties\launchsettings.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\properties\launchsettings.json
+++AppServicesSettings.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\extensions\appservicessettings.cs
+++HttpClientAuthorizationDelegatingHandler.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\extensions\httpclientauthorizationdelegatinghandler.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\handlers\httpclientauthorizationdelegatinghandler.cs
+++CarrinhoDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\carrinhodto.cs
+++EnderecoDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\enderecodto.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\dto\enderecodto.cs
+++ItemCarrinhoDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\itemcarrinhodto.cs
+++ItemProdutoDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\itemprodutodto.cs
+++PedidoDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\pedidodto.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\dto\pedidodto.cs
+++VoucherDTO.cs
+i:{039cef58-defa-441e-ac7d-23fae492a3d2}:c:\dev\tech\desenvolvedorio\enterprise applications\src\api gateways\nse.bff.compras\models\voucherdto.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\dto\voucherdto.cs
+++Building Blocks
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Building Blocks
+++MainController.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\controllers\maincontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\maincontroller.cs
+++HttpExtensions.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\extensions\httpextensions.cs
+++PollyExtensions.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\extensions\pollyextensions.cs
+++Identidade
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\identidade\
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Identidade
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\identidade\
+++AppSettings.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\identidade\appsettings.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\appsettings.cs
+++CustomAuthorize.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\identidade\customauthorize.cs
+++JwtConfig.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\identidade\jwtconfig.cs
+++Usuario
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\usuario\
+++AspNetUser.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\usuario\aspnetuser.cs
+++ClaimsPrincipalExtensions.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\usuario\claimsprincipalextensions.cs
+++IAspNetUser.cs
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.webapi.core\usuario\iaspnetuser.cs
+++FluentValidation (8.6.2)
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:>1874
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>1877
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.4)
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:>1876
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>2000
+++Microsoft.Extensions.Http.Polly (3.1.4)
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:>1880
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>2005
+++NetDevPack.Security.JwtExtensions (1.0.1)
+i:{fd20e369-fc17-48f1-ba94-2bdb9ed9ee2f}:>1872
+++Core
+i:{117a9589-2568-4766-8d6f-6a5e1f0e5c42}:Core
+++Communication
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\communication\
+++Data
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\data\
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\data\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\data\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\
+++DomainObjects
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\
+++Mediator
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\mediator\
+++Messages
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\
+++Utils
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\utils\
+++Validation
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\validation\
+++ResponseResult.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\communication\responseresult.cs
+++IRepository.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\data\irepository.cs
+++IUnitOfWork.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\data\iunitofwork.cs
+++Cpf.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\cpf.cs
+++DomainException.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\domainexception.cs
+++Email.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\email.cs
+++Entity.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\entity.cs
+++IAggregateRoot.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\domainobjects\iaggregateroot.cs
+++IMediatorHandler.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\mediator\imediatorhandler.cs
+++MediatorHandler.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\mediator\mediatorhandler.cs
+++Integration
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\
+++Command.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\command.cs
+++CommandHandler.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\commandhandler.cs
+++Event.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\event.cs
+++Message.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\message.cs
+++ConfigurationExtensions.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\utils\configurationextensions.cs
+++StringUtils.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\utils\stringutils.cs
+++CartaoExpiracaoAttribute.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\validation\cartaoexpiracaoattribute.cs
+++MediatR (8.0.1)
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>1875
+++Microsoft.Extensions.Configuration.Abstractions (3.1.4)
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>1868
+++Microsoft.Extensions.DependencyInjection.Abstractions (3.1.4)
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>1870
+++NetDevPack (1.1.0)
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:>1886
+++IntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\integrationevent.cs
+++PedidoAutorizadoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidoautorizadointegrationevent.cs
+++PedidoBaixadoEstoqueIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidobaixadoestoqueintegrationevent.cs
+++PedidoCanceladoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidocanceladointegrationevent.cs
+++PedidoIniciadoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidoiniciadointegrationevent.cs
+++PedidoPagoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidopagointegrationevent.cs
+++PedidoRealizadoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\pedidorealizadointegrationevent.cs
+++ResponseMessage.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\responsemessage.cs
+++UsuarioRegistradoIntegrationEvent.cs
+i:{f1468795-2bf8-47d6-a2d5-676713cab112}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.core\messages\integration\usuarioregistradointegrationevent.cs
+++MessageBus
+i:{117a9589-2568-4766-8d6f-6a5e1f0e5c42}:MessageBus
+++DependencyInjectionExtensions.cs
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\dependencyinjectionextensions.cs
+++IMessageBus.cs
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\imessagebus.cs
+++MessageBus.cs
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\messagebus.cs
+++MessageBusNovaVersaoBus.cs
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:c:\dev\tech\desenvolvedorio\enterprise applications\src\building blocks\nse.messagebus\messagebusnovaversaobus.cs
+++EasyNetQ (5.1.1)
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:>1859
+++Polly (7.2.1)
+i:{9bc437b3-3ce2-455b-9e4e-30ba2955e116}:>1860
+++NSE.Identidade.API
+i:{e20930ae-e7e7-4ed1-afd4-a5d709810aaf}:NSE.Identidade.API
+++IdentityConfig.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\configuration\identityconfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\configuration\identityconfig.cs
+++AuthController.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\controllers\authcontroller.cs
+++ApplicationDbContext.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\data\applicationdbcontext.cs
+++Migrations
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\migrations\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\migrations\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\migrations\
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\
+++AuthenticationService.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\services\authenticationservice.cs
+++AppTokenSettings.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\extensions\apptokensettings.cs
+++IdentityMensagensPortugues.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\extensions\identitymensagensportugues.cs
+++20200423030546_Initial.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200423030546_initial.cs
+++20200813175718_SecKyes.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200813175718_seckyes.cs
+++20200814180447_RefreshToken.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200814180447_refreshtoken.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\applicationdbcontextmodelsnapshot.cs
+++RefreshToken.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\models\refreshtoken.cs
+++UserViewModels.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\models\userviewmodels.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\users\rafas\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>2008
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1979
+++Microsoft.AspNetCore.Identity.UI (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>2028
+++Microsoft.EntityFrameworkCore (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1957
+++Microsoft.EntityFrameworkCore.Abstractions (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1997
+++Microsoft.EntityFrameworkCore.Relational (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1988
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1961
+++Microsoft.EntityFrameworkCore.Tools (3.1.7)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>2012
+++NetDevPack.Security.JwtSigningCredentials.AspNetCore (1.0.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>2031
+++NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore (1.0.3)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1973
+++Swashbuckle.AspNetCore (5.5.1)
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:>1966
+++20200423030546_Initial.Designer.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200423030546_initial.designer.cs
+++20200813175718_SecKyes.Designer.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200813175718_seckyes.designer.cs
+++20200814180447_RefreshToken.Designer.cs
+i:{67c7bf5b-9716-45db-ae14-fa9b7db9a519}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.identidade.api\migrations\20200814180447_refreshtoken.designer.cs
+++Carrinho
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Carrinho
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\carrinho\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\carrinho\
+++NSE.Carrinho.API
+i:{ddc37040-1b9b-49fb-aa06-2982159f9ce0}:NSE.Carrinho.API
+++Grpc.AspNetCore (2.31.0)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1962
+++Microsoft.EntityFrameworkCore (3.1.4)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1956
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1971
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1906
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1982
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1889
+++Microsoft.EntityFrameworkCore.Abstractions (3.1.4)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1995
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>2010
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1911
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>2014
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1893
+++Microsoft.EntityFrameworkCore.Design (3.1.4)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1974
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1983
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1908
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1994
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>1984
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1891
+++Microsoft.EntityFrameworkCore.Relational (3.1.4)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1989
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>2004
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1910
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>2009
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1892
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.4)
+i:{e9ae8163-a22e-4179-a041-820c96307756}:>1967
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1976
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1907
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>1992
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1890
+++CarrinhoContext.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\data\carrinhocontext.cs
+++Model
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\model\
+++CarrinhoCliente.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\model\carrinhocliente.cs
+++CarrinhoItem.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\model\carrinhoitem.cs
+++Voucher.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\model\voucher.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\voucher.cs
+++Protos
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\protos\
+++20200528051357_Carrinho.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200528051357_carrinho.cs
+++20200618053723_Voucher.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200618053723_voucher.cs
+++20200627005717_CarrinhoCascade.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200627005717_carrinhocascade.cs
+++CarrinhoContextModelSnapshot.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\carrinhocontextmodelsnapshot.cs
+++carrinho.proto
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\protos\carrinho.proto
+++CarrinhoIntegrationHandler.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\services\carrinhointegrationhandler.cs
+++20200528051357_Carrinho.Designer.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200528051357_carrinho.designer.cs
+++20200618053723_Voucher.Designer.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200618053723_voucher.designer.cs
+++20200627005717_CarrinhoCascade.Designer.cs
+i:{e9ae8163-a22e-4179-a041-820c96307756}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.carrinho.api\migrations\20200627005717_carrinhocascade.designer.cs
+++Catalogo
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Catalogo
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\catalogo\
+++NSE.Catalogo.API
+i:{11f7fadb-845f-4786-a226-39c7320ef12e}:NSE.Catalogo.API
+++CatalogoController.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\controllers\catalogocontroller.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\catalogocontroller.cs
+++Mappings
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\mappings\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\mappings\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\mappings\
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\mappings\
+++Repository
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\repository\
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\repository\
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\repository\
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\repository\
+++CatalogoContext.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\catalogocontext.cs
+++ProdutosSeed.sql
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\produtosseed.sql
+++ProdutoMapping.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\mappings\produtomapping.cs
+++ProdutoRepository.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\data\repository\produtorepository.cs
+++20200509021055_Initial.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\migrations\20200509021055_initial.cs
+++CatalogoContextModelSnapshot.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\migrations\catalogocontextmodelsnapshot.cs
+++IProdutoRepository.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\models\iprodutorepository.cs
+++PagedResult.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\models\pagedresult.cs
+++Produto.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\models\produto.cs
+++CatalogoIntegrationHandler.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\services\catalogointegrationhandler.cs
+++Dapper (2.0.35)
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:>1991
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>2002
+++20200509021055_Initial.Designer.cs
+i:{6f03b725-dc76-41a7-abd8-c22e4758cb06}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.catalogo.api\migrations\20200509021055_initial.designer.cs
+++Cliente
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Cliente
+++NSE.Clientes.API
+i:{0087f975-336a-4537-b653-df81e2ada298}:NSE.Clientes.API
+++Application
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\
+++Commands
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\commands\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\commands\
+++AdicionarEnderecoCommand.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\commands\adicionarenderecocommand.cs
+++ClienteCommandHandler.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\commands\clientecommandhandler.cs
+++RegistrarClienteCommand.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\commands\registrarclientecommand.cs
+++Events
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\events\
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\events\
+++ClienteEventHandler.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\events\clienteeventhandler.cs
+++ClienteRegistradoEvent.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\application\events\clienteregistradoevent.cs
+++ClientesController.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\controllers\clientescontroller.cs
+++ClientesContext.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\clientescontext.cs
+++MediatorExtension.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\mediatorextension.cs
+++Cliente.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\models\cliente.cs
+++Endereco.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\models\endereco.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\endereco.cs
+++IClienteRepository.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\models\iclienterepository.cs
+++RegistroClienteIntegrationHandler.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\services\registroclienteintegrationhandler.cs
+++MediatR.Extensions.Microsoft.DependencyInjection (8.0.0)
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1913
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:>2011
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (3.1.3)
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:>1916
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:>2026
+++ClienteMapping.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\mappings\clientemapping.cs
+++EnderecoMapping.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\mappings\enderecomapping.cs
+++ClienteRepository.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\data\repository\clienterepository.cs
+++20200515030740_Clientes.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\migrations\20200515030740_clientes.cs
+++ClientesContextModelSnapshot.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\migrations\clientescontextmodelsnapshot.cs
+++20200515030740_Clientes.Designer.cs
+i:{5f298bad-0ea5-4cdf-b7b7-9d709e50ab92}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.clientes.api\migrations\20200515030740_clientes.designer.cs
+++Pagamento
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Pagamento
+++NSE.Pagamentos.API
+i:{003af41a-de6d-4e10-bfb2-b17dffaa96cf}:NSE.Pagamentos.API
+++Facade
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\facade\
+++PagamentoController.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\controllers\pagamentocontroller.cs
+++PagamentosContext.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\pagamentoscontext.cs
+++IPagamentoFacade.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\facade\ipagamentofacade.cs
+++PagamentoCartaoCreditoFacade.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\facade\pagamentocartaocreditofacade.cs
+++PagamentoConfig.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\facade\pagamentoconfig.cs
+++20200711030719_Pagamentos.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\migrations\20200711030719_pagamentos.cs
+++PagamentosContextModelSnapshot.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\migrations\pagamentoscontextmodelsnapshot.cs
+++CartaoCredito.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\cartaocredito.cs
+++IPagamentoRepository.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\ipagamentorepository.cs
+++Pagamento.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\pagamento.cs
+++StatusTransacao.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\statustransacao.cs
+++TipoPagamento.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\tipopagamento.cs
+++Transacao.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\models\transacao.cs
+++IPagamentoService.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\services\ipagamentoservice.cs
+++PagamentoIntegrationHandler.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\services\pagamentointegrationhandler.cs
+++NSE.Pagamentos.NerdsPag
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\nse.pagamentos.nerdspag.csproj
+i:{003af41a-de6d-4e10-bfb2-b17dffaa96cf}:NSE.Pagamentos.NerdsPag
+++PagamentoMapping.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\mappings\pagamentomapping.cs
+++TransacaoMapping.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\mappings\transacaomapping.cs
+++PagamentoRepository.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\data\repository\pagamentorepository.cs
+++20200711030719_Pagamentos.Designer.cs
+i:{2284ed64-7605-4c36-acb5-49bb6e183ab7}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.api\migrations\20200711030719_pagamentos.designer.cs
+++Card.cs
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\card.cs
+++NerdsPagService.cs
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\nerdspagservice.cs
+++PaymentMethod.cs
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\paymentmethod.cs
+++Transaction.cs
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\transaction.cs
+++TransactionStatus.cs
+i:{f8612ed7-45cd-4a5d-a8f6-2bf50c6b5638}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pagamentos.nerdspag\transactionstatus.cs
+++Pedido
+i:{d6aeadc0-0dc2-4bf1-9305-436814fc0ee6}:Pedido
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\
+++NSE.Pedidos.API
+i:{d677dc3b-f746-4a12-8c71-41baab2bddf8}:NSE.Pedidos.API
+++DTO
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\dto\
+++Queries
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\queries\
+++VoucherController.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\controllers\vouchercontroller.cs
+++PedidoIntegrationHandler.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\services\pedidointegrationhandler.cs
+++PedidoOrquestradorIntegrationHandler.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\services\pedidoorquestradorintegrationhandler.cs
+++NSE.Pedidos.Domain
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\nse.pedidos.domain.csproj
+i:{d677dc3b-f746-4a12-8c71-41baab2bddf8}:NSE.Pedidos.Domain
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\nse.pedidos.domain.csproj
+++NSE.Pedidos.Infra
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\nse.pedidos.infra.csproj
+i:{d677dc3b-f746-4a12-8c71-41baab2bddf8}:NSE.Pedidos.Infra
+++AdicionarPedidoCommand.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\commands\adicionarpedidocommand.cs
+++PedidoCommandHandler.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\commands\pedidocommandhandler.cs
+++PedidoItemDTO.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\dto\pedidoitemdto.cs
+++PedidoEventHandler.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\events\pedidoeventhandler.cs
+++PedidoRealizadoEvent.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\events\pedidorealizadoevent.cs
+++PedidoQueries.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\queries\pedidoqueries.cs
+++VoucherQueries.cs
+i:{0c7ae976-d3c5-47cc-81c5-1c5024142743}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.api\application\queries\voucherqueries.cs
+++Pedidos
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\
+++Vouchers
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\
+++IPedidoRepository.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\ipedidorepository.cs
+++Pedido.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\pedido.cs
+++PedidoItem.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\pedidoitem.cs
+++PedidoStatus.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\pedidos\pedidostatus.cs
+++Specs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\specs\
+++IVoucherRepository.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\ivoucherrepository.cs
+++TipoDescontoVoucher.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\tipodescontovoucher.cs
+++VoucherSpec.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\specs\voucherspec.cs
+++VoucherValidation.cs
+i:{5d202029-0908-414d-8b61-8f76d0e656ae}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.domain\vouchers\specs\vouchervalidation.cs
+++PedidosContext.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\pedidoscontext.cs
+++20200618041246_Voucher.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\20200618041246_voucher.cs
+++20200623233053_pedidos.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\20200623233053_pedidos.cs
+++PedidosContextModelSnapshot.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\pedidoscontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Tools (3.1.4)
+i:{614668f2-6dec-4b2e-94db-52038272a274}:>1894
+++PedidoItemMapping.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\mappings\pedidoitemmapping.cs
+++PedidoMapping.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\mappings\pedidomapping.cs
+++VoucherMapping.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\mappings\vouchermapping.cs
+++PedidoRepository.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\repository\pedidorepository.cs
+++VoucherRepository.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\data\repository\voucherrepository.cs
+++20200618041246_Voucher.Designer.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\20200618041246_voucher.designer.cs
+++20200623233053_pedidos.Designer.cs
+i:{614668f2-6dec-4b2e-94db-52038272a274}:c:\dev\tech\desenvolvedorio\enterprise applications\src\services\nse.pedidos.infra\migrations\20200623233053_pedidos.designer.cs
+++Web
+i:{ce59f6fc-1501-4e25-814a-52b0e0c677c7}:Web
+++MVC
+i:{119cfea6-a437-44da-9213-ee8b87493873}:MVC
+++NSE.WebApp.MVC
+i:{e9ce11fb-0d6c-4843-abdd-19d63ed900ef}:NSE.WebApp.MVC
+++serviceDependencies.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\properties\servicedependencies.json
+++wwwroot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\
+++Handlers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\handlers\
+++AutenticacaoService.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\autenticacaoservice.cs
+++ComprasBffService.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\services\comprasbffservice.cs
+++Views
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\
+++serviceDependencies.local.json
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\properties\servicedependencies.local.json
+++css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\
+++fonts
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\
+++images
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\
+++js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\js\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\
+++favicon.ico
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\favicon.ico
+++WebAppConfig.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\configuration\webappconfig.cs
+++ClienteController.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\clientecontroller.cs
+++HomeController.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\homecontroller.cs
+++IdentidadeController.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\controllers\identidadecontroller.cs
+++CarrinhoViewComponent.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\carrinhoviewcomponent.cs
+++CpfAnnotation.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\cpfannotation.cs
+++CustomHttpRequestException.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\customhttprequestexception.cs
+++ExceptionMiddleware.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\exceptionmiddleware.cs
+++PaginacaoViewComponent.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\paginacaoviewcomponent.cs
+++RazorHelpers.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\razorhelpers.cs
+++SummaryViewComponent.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\extensions\summaryviewcomponent.cs
+++CarrinhoViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\carrinhoviewmodel.cs
+++EnderecoViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\enderecoviewmodel.cs
+++ErrorViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\errorviewmodel.cs
+++PagedViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\pagedviewmodel.cs
+++PedidoTransacaoViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\pedidotransacaoviewmodel.cs
+++PedidoViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\pedidoviewmodel.cs
+++ProdutoViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\produtoviewmodel.cs
+++UsuarioViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\usuarioviewmodel.cs
+++VoucherViewModel.cs
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\models\voucherviewmodel.cs
+++Home
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\home\
+++Shared
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\
+++_ViewImports.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\_viewstart.cshtml
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\program files\dotnet\sdk\6.0.100-rc.1.21463.6\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Grpc.Core.Api (2.31.0)
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1993
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (3.1.4)
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1990
+++Refit (5.1.67)
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:>1996
+++responsive.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\responsive.css
+++site.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\site.css
+++ui.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\ui.css
+++fontawesome
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\
+++avatars
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\avatars\
+++banners
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\banners\
+++icons
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\
+++misc
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\misc\
+++produtos
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\
+++logo.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\logo.png
+++script.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\js\script.js
+++site.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\js\site.js
+++bootstrap
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\carrinho\index.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\catalogo\index.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\home\index.cshtml
+++ProdutoDetalhe.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\catalogo\produtodetalhe.cshtml
+++Privacy.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\home\privacy.cshtml
+++Login.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\identidade\login.cshtml
+++Registro.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\identidade\registro.cshtml
+++_Endereco.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\_endereco.cshtml
+++_NovoEndereco.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\_novoendereco.cshtml
+++_ResumoFinanceiro.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\_resumofinanceiro.cshtml
+++ConfirmacaoPedido.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\confirmacaopedido.cshtml
+++EnderecoEntrega.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\enderecoentrega.cshtml
+++MeusPedidos.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\meuspedidos.cshtml
+++Pagamento.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\pedido\pagamento.cshtml
+++Components
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\
+++_Layout.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\error.cshtml
+++responsive.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\responsive.css.map
+++ui.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\css\ui.css.map
+++scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\
+++webfonts
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\
+++avatar1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar1.jpg
+++avatar2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar2.jpg
+++avatar3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\avatars\avatar3.jpg
+++1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\banners\1.jpg
+++nerdstore.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\banners\nerdstore.png
+++Template.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\banners\template.jpg
+++Template.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\banners\template.png
+++pay-american-ex.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-american-ex.png
+++pay-bank.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-bank.png
+++pay-mastercard.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-mastercard.png
+++pay-visa.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-visa.png
+++pay-visa-el.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\icons\pay-visa-el.png
+++appstore.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\misc\appstore.png
+++payments.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\misc\payments.png
+++playmarket.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\misc\playmarket.png
+++4head.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\4head.webp
+++Branca 4head.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\branca 4head.webp
+++Branco Tiltado.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\branco tiltado.webp
+++camiseta1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta1.jpg
+++camiseta2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta2.jpg
+++camiseta3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta3.jpg
+++camiseta4.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\camiseta4.jpg
+++caneca1.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca1.jpg
+++caneca1--batman.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca1--batman.jpg
+++caneca1-Vegeta.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca1-vegeta.jpg
+++caneca2.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca2.jpg
+++caneca3.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca3.jpg
+++caneca4.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca4.jpg
+++caneca-Batman.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-batman.jpg
+++caneca-bbt.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-bbt.webp
+++caneca-cogumelo.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-cogumelo.webp
+++caneca-Geeks.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-geeks.jpg
+++caneca-ironman.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-ironman.jpg
+++caneca-joker Wanted.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-joker wanted.jpg
+++caneca-Joker.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-joker.jpg
+++caneca-Nightmare.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-nightmare.jpg
+++caneca-Ozob.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-ozob.webp
+++caneca-Rick and Morty.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-rick and morty.jpg
+++caneca-Wonder Woman.jpg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\caneca-wonder woman.jpg
+++cards.png
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\cards.png
+++Heisenberg.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\heisenberg.webp
+++Kappa.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\kappa.webp
+++MacGyver.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\macgyver.webp
+++Maestria.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\maestria.webp
+++My Yoda.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\my yoda.webp
+++Pato.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\pato.webp
+++Quack.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\quack.webp
+++Rick And Morty Captured.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\rick and morty captured.webp
+++Rick And Morty.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\rick and morty.webp
+++Say My Name.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\say my name.webp
+++support.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\support.webp
+++tiltado.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\tiltado.webp
+++Tryhard.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\tryhard.webp
+++Xaviers School.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\xaviers school.webp
+++Yoda.webp
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\images\produtos\yoda.webp
+++dist
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\license.txt
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Paginacao
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\paginacao\
+++Summary
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\summary\
+++all.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\all.css
+++brands.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\brands.css
+++fontawesome.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\fontawesome.css
+++regular.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\regular.css
+++solid.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\solid.css
+++svg-with-js.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\svg-with-js.css
+++v4-shims.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\v4-shims.css
+++_animated.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_animated.scss
+++_bordered-pulled.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_bordered-pulled.scss
+++_core.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_core.scss
+++_fixed-width.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_fixed-width.scss
+++_icons.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_icons.scss
+++_larger.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_larger.scss
+++_list.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_list.scss
+++_mixins.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_mixins.scss
+++_rotated-flipped.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_rotated-flipped.scss
+++_screen-reader.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_screen-reader.scss
+++_shims.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_shims.scss
+++_stacked.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_stacked.scss
+++_variables.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\_variables.scss
+++brands.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\brands.scss
+++fontawesome.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\fontawesome.scss
+++regular.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\regular.scss
+++solid.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\solid.scss
+++v4-shims.scss
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\scss\v4-shims.scss
+++fa-brands-400.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\webfonts\fa-solid-900.woff2
+++jquery.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Default.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\carrinho\default.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\paginacao\default.cshtml
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\views\shared\components\summary\default.cshtml
+++all.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\all.min.css
+++brands.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\brands.min.css
+++fontawesome.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\fontawesome.min.css
+++regular.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\regular.min.css
+++solid.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\solid.min.css
+++svg-with-js.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\svg-with-js.min.css
+++v4-shims.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\fonts\fontawesome\css\v4-shims.min.css
+++bootstrap.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{6c4032d4-7aeb-49c7-a551-f5b84d3945bb}:c:\dev\tech\desenvolvedorio\enterprise applications\src\web\nse.webapp.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
